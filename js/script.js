@@ -53,7 +53,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*==================== typed js ====================*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Deputy Manager of MIS Department','Team Lead of Software Development','C# - Python - Javascript Developer ','.Net Core - Django - Angular Developer ','REST API Developer', 'PL/SQL Developer', 'TFS and JIRA Tools Engineer'],
+    strings: ['Deputy Manager of MIS Department','Team Lead of Software Development','C# - Java - Javascript Developer ','.Net Core - Angular Developer - React ','REST API Developer', 'PL/SQL Developer', 'TFS and JIRA Tools Engineer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
