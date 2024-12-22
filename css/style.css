@@ -89,6 +89,16 @@ section {
     width: 25vw;
     animation: floatImage 4s ease-in-out infinite;
 }
+.home-img2 img {
+    width: 7vw;
+    animation: floatImage 4s ease-in-out infinite;
+}
+.home-img3 img {
+     width: 700px;
+     height: 500px;
+	 object-fit: cover;
+    
+}
 
 @keyframes floatImage {
     0% {
@@ -524,3 +534,4 @@ span {
     color:green;
     border-bottom:1px solid red;
 } */
+
